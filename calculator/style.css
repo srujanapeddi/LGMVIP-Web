@@ -65,21 +65,21 @@ button#equal {
     background-color: #080005;
 }
 .calculator #display {
-    color: #f8fafb;
+    color: #f406f4;
 }
 .calculator button#clear {
-    background-color: #2e1f39;
+    background-color: #f80844;
     color: #f8fafb;
 }
 .calculator button.btn-number {
-    background-color: #447189;
+    background-color: #0b9dec;
     color: #fbfaf8;
 }
 .calculator button.btn-operator {
-    background-color: #2e1f39;
+    background-color: #623b7d;
     color: #90f0eb;
 }
 .calculator button.btn-equal {
-    background-color: #223323;
+    background-color: #23d32f;
     color: #ffffff;
 }
